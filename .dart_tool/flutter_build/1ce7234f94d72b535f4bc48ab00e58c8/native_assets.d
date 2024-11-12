@@ -1,0 +1,1 @@
+ D:\\Arthur\\Fatec\\5\ Semestre\\lp3\\MindClean\\mind_clean\\.dart_tool\\flutter_build\\1ce7234f94d72b535f4bc48ab00e58c8\\native_assets.yaml: 
